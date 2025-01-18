@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/cmake-build-debug"
+			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/Assign1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/Assign1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300"
+			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/Assign1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/cmake-build-debug"
+			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/Assign1/cmake-build-debug"
 		},
 		{
 			"name" : "GameProgramming4300_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300"
+			"value" : "/Users/ziyangk/Desktop/Code/GameProgramming4300/Assign1"
 		}
 	],
 	"kind" : "cache",
