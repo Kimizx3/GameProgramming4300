@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "GameProgramming4300",
+					"name" : "Assign1",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "GameProgramming4300::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GameProgramming4300-Debug-dbd546868203ce1de959.json",
-					"name" : "GameProgramming4300",
+					"id" : "Assign1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Assign1-Debug-2465b0695d5fde6e62ac.json",
+					"name" : "Assign1",
 					"projectIndex" : 0
 				}
 			]
